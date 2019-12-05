@@ -690,6 +690,102 @@ K Gate Driver
 F https://www.infineon.com/dgdl/Infineon-IRS2890DS-DS-v01_00-EN.pdf?fileId=5546d4625a888733015aad6fbc8a4bf4
 $ENDCMP
 #
+$CMP IXDD609CI
+D 9A high speed MOSFET gate driver with non-inverting output, TO220-5
+K MOSFET Gate Driver
+F http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf
+$ENDCMP
+#
+$CMP IXDD609D2
+D 9A high speed MOSFET gate driver with non-inverting output, DFN-8
+K MOSFET Gate Driver
+F http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf
+$ENDCMP
+#
+$CMP IXDD609PI
+D 9A high speed MOSFET gate driver with non-inverting output, DIP-8
+K MOSFET Gate Driver
+F http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf
+$ENDCMP
+#
+$CMP IXDD609SI
+D 9A high speed MOSFET gate driver with non-inverting output, SOIC-8-EP
+K MOSFET Gate Driver
+F http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf
+$ENDCMP
+#
+$CMP IXDD609SIA
+D 9A high speed MOSFET gate driver with non-inverting output, SOIC-8
+K MOSFET Gate Driver
+F http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf
+$ENDCMP
+#
+$CMP IXDD609YI
+D 9A high speed MOSFET gate driver with non-inverting output, TO263-5
+K MOSFET Gate Driver
+F http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf
+$ENDCMP
+#
+$CMP IXDI609CI
+D 9A high speed MOSFET gate driver with inverting output, TO220-5
+K MOSFET Gate Driver
+F http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf
+$ENDCMP
+#
+$CMP IXDI609PI
+D 9A high speed MOSFET gate driver with inverting output, DIP-8
+K MOSFET Gate Driver
+F http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf
+$ENDCMP
+#
+$CMP IXDI609SI
+D 9A high speed MOSFET gate driver with inverting output, SOIC-8-EP
+K MOSFET Gate Driver
+F http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf
+$ENDCMP
+#
+$CMP IXDI609SIA
+D 9A high speed MOSFET gate driver with inverting output, SOIC-8
+K MOSFET Gate Driver
+F http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf
+$ENDCMP
+#
+$CMP IXDI609YI
+D 9A high speed MOSFET gate driver with inverting output, TO263-5
+K MOSFET Gate Driver
+F http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf
+$ENDCMP
+#
+$CMP IXDN609CI
+D 9A high speed MOSFET gate driver with non-inverting output, TO220-5
+K MOSFET Gate Driver
+F http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf
+$ENDCMP
+#
+$CMP IXDN609PI
+D 9A high speed MOSFET gate driver with non-inverting output, DIP-8
+K MOSFET Gate Driver
+F http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf
+$ENDCMP
+#
+$CMP IXDN609SI
+D 9A high speed MOSFET gate driver with non-inverting output, SOIC-8-EP
+K MOSFET Gate Driver
+F http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf
+$ENDCMP
+#
+$CMP IXDN609SIA
+D 9A high speed MOSFET gate driver with non-inverting output, SOIC-8
+K MOSFET Gate Driver
+F http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf
+$ENDCMP
+#
+$CMP IXDN609YI
+D 9A high speed MOSFET gate driver with non-inverting output, TO263-5
+K MOSFET Gate Driver
+F http://www.ixysic.com/home/pdfs.nsf/www/IXD_609.pdf/$file/IXD_609.pdf
+$ENDCMP
+#
 $CMP LM5109AMA
 D Half-Bridge Gate Driver, Output Current 1.0A, 100V, SOIC-8
 K Half-Bridge Gate Driver
